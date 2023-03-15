@@ -1,4 +1,4 @@
-# Fundamentals-of-R-Language
+# Fundamentals-of-R-Programming
 # R Language Used In 
 It is a great resource for data analysis, data visualization, data science and machine learning.
 It provides many statistical techniques (such as statistical tests, classification, clustering and data reduction)
