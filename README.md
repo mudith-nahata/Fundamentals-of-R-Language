@@ -3,7 +3,7 @@
 It is a great resource for data analysis, data visualization, data science and machine learning.
 It provides many statistical techniques (such as statistical tests, classification, clustering and data reduction)
 It is easy to draw graphs in R, like pie charts, histograms, box plot, scatter plot, etc
-#Core Competencies Practicing in R programming Language
+# Core Competencies Practicing in R programming Language
 Working with data types and variables.
 Vectors.
 matrices.
