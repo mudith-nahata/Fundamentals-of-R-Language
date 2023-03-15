@@ -8,7 +8,7 @@ Working with data types and variables.
 Vectors.
 matrices.
 lists.
-and data frames.
+Data frames.
 Data import.
 Logical statements
 # Practical Use Case of R Programming
