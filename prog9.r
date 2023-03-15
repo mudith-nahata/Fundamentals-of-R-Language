@@ -1,0 +1,13 @@
+#prog8.r
+x<-100+200
+y<-200-100
+z<-300/200
+m<-100*2
+k<-2^3
+l<-100%%2
+print(x)
+print(y)
+print(z)
+print(m)
+print(k)
+print(l)
